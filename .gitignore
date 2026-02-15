@@ -1,4 +1,7 @@
 *.html
+output/*
 venv*/
 __pycache__/
 *.pyc
+*.rar
+temp/*
